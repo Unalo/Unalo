@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my world 
 
 <h1 align="center">Hi 👋, I'm Unalo Mtshokotsha</h1>
-<h3 align="center">A passionate Software developer from Cape Town (Mzantsi)</h3>
+<h3 align="center">A passionate Software developer from Cape Town (Mzantsi 🇿🇦)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unalo&label=Profile%20views&color=0e75b6&style=flat" alt="unalo" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java and JavaScript**
 
-- 📫 How to reach me **Unalo@projectcodex.co**
+- 📫 How to reach me **Unalomtshokotsha@Gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
