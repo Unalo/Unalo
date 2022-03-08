@@ -1,7 +1,7 @@
 ### Hi there 👋🏽 Welcome to my world 
 
 <h1 align="center">I'm Unalo Mtshokotsha</h1>
-<h3 align="center">A passionate Software developer from Cape Town (Mzantsi 🇿🇦)</h3>
+<h3 align="center">A passionate Software developer from Cape Town (eMzantsi 🇿🇦)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unalo&label=Profile%20views&color=0e75b6&style=flat" alt="unalo" /> </p>
 
