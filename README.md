@@ -3,9 +3,6 @@
 <h1 align="center">I'm Unalo Mtshokotsha</h1>
 <h3 align="center">A passionate Software developer from Cape Town (eMzantsi 🇿🇦)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unalo&label=Profile%20views&color=0e75b6&style=flat" alt="unalo" /> </p>
-
-<p align="left"> <a href="https://twitter.com/tso_mayne" target="blank"><img src="https://img.shields.io/twitter/follow/tso_mayne?logo=twitter&style=for-the-badge" alt="tso_mayne" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
