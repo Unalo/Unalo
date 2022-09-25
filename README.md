@@ -1,6 +1,5 @@
-### Hi there 👋🏽 Welcome to my world 
 
-<h1 align="center">I'm Unalo Mtshokotsha</h1>
+<h1 align="center"> Hi there 👋🏽 I'm Unalo Mtshokotsha</h1>
 <h3 align="center">A passionate Software developer from Cape Town (eMzantsi 🇿🇦)</h3>
 
 
